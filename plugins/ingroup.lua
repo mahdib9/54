@@ -1249,7 +1249,7 @@ return {
 -- "^[!/](public) (.*)$",
   "^[!/](modlist)$",
   "^[!/](newlink)$",
-  "^[!/](link)$",
+  "^[!/](لینک)$",
   "^[!/](kickinactive)$",
   "^[!/](kickinactive) (%d+)$",
   "%[(photo)%]",
